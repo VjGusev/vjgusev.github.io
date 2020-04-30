@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Попробуем!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Попробую вести свой блог. Здесь я буду делиться с вами опытом и самыми сочными инсайтами в процессе рассказа истории о том, как я пытаюсь создавать свои стартапы: собирать команды, подавать в акселераторы, проваливаться, пытаться снова, пивотиться, искать инвестиции, короче, жить проектами!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Меня зовут Слава, я из Москвы и мне 27. По образованию прогер.
+![_config.yml]({{ site.baseurl }}/images/slava_small.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+А вообще все это не так вадно, ведь мы в мире стартапов. Для меня это пока что очень романтический мир, где каждый может выделиться, найти свое место и проявить себя не зависимо от своих скиллов, образования и связей. Это мир, где надо уметь быть собой, выражать себя и проявлять свою уникально.
+
+Посмотрим, изменится ли мое представление об этом мире спустя год попыток создания стартапа, но пока остаемся наивными романтиками и пробуем творить. Творить в первую очередь для себя!
